@@ -93,6 +93,12 @@ orgs:
   members:
   - username: mnemonic01
     role: owner
+- name: nieykgojanuvhwec
+  display_name: nIeykGojANuVHWec
+  description: Created for IbdInhtrYAXeBwFIglqm COkDyjwIYSVrrluolemXK
+  members:
+  - username: lQtWHnffyEXCEONpJV
+    role: owner
 users:
 - username: admin
   email: admin@deployhub.com
@@ -129,6 +135,9 @@ users:
   auth_provider: local
 - username: mnemonic01
   email: mnemonic01@hotmail.com
+  auth_provider: local
+- username: lQtWHnffyEXCEONpJV
+  email: iga.hama.k5.4@gmail.com
   auth_provider: local
 roles:
 - name: owner
