@@ -105,6 +105,12 @@ orgs:
   members:
   - username: bkearney
     role: owner
+- name: the hdf group
+  display_name: The HDF Group
+  description: Created for Gerd Heber
+  members:
+  - username: gheber
+    role: owner
 users:
 - username: admin
   email: admin@deployhub.com
@@ -147,6 +153,9 @@ users:
   auth_provider: local
 - username: bkearney
   email: bryan.kearney@gmail.com
+  auth_provider: local
+- username: gheber
+  email: gheber@hdfgroup.org
   auth_provider: local
 roles:
 - name: owner
