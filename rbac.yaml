@@ -111,6 +111,12 @@ orgs:
   members:
   - username: gheber
     role: owner
+- name: spinny
+  display_name: Spinny
+  description: Created for Saurav Dutta
+  members:
+  - username: saurav-spinny
+    role: owner
 users:
 - username: admin
   email: admin@deployhub.com
@@ -156,6 +162,9 @@ users:
   auth_provider: local
 - username: gheber
   email: gheber@hdfgroup.org
+  auth_provider: local
+- username: saurav-spinny
+  email: saurav.dutta@spinny.com
   auth_provider: local
 roles:
 - name: owner
