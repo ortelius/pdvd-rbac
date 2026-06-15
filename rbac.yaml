@@ -117,6 +117,12 @@ orgs:
   members:
   - username: saurav-spinny
     role: owner
+- name: catsyscorp
+  display_name: CatSysCorp
+  description: Created for Bodhi Taylor
+  members:
+  - username: boshitaylor
+    role: owner
 users:
 - username: admin
   email: admin@deployhub.com
@@ -165,6 +171,9 @@ users:
   auth_provider: local
 - username: saurav-spinny
   email: saurav.dutta@spinny.com
+  auth_provider: local
+- username: boshitaylor
+  email: bodhi@deployhub.com
   auth_provider: local
 roles:
 - name: owner
