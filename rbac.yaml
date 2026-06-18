@@ -93,6 +93,12 @@ orgs:
   members:
   - username: saurav-spinny
     role: owner
+- name: cyberspace
+  display_name: CyberSpace
+  description: Created for Bodhi Taylor
+  members:
+  - username: bodhi16
+    role: owner
 users:
 - username: admin
   email: admin@deployhub.com
@@ -132,6 +138,9 @@ users:
   auth_provider: local
 - username: saurav-spinny
   email: saurav.dutta@spinny.com
+  auth_provider: local
+- username: bodhi16
+  email: notifysupport@deployhub.com
   auth_provider: local
 roles:
 - name: owner
