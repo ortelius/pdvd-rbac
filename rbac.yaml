@@ -123,6 +123,12 @@ orgs:
   members:
   - username: boshitaylor
     role: owner
+- name: thebarn3
+  display_name: TheBarn3
+  description: Created for Stella Taylor
+  members:
+  - username: stella
+    role: owner
 users:
 - username: admin
   email: admin@deployhub.com
@@ -174,6 +180,9 @@ users:
   auth_provider: local
 - username: boshitaylor
   email: bodhi@deployhub.com
+  auth_provider: local
+- username: stella
+  email: stella@deployhub.com
   auth_provider: local
 roles:
 - name: owner
