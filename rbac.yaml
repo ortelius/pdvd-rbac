@@ -51,6 +51,8 @@ orgs:
   members:
   - username: tisha
     role: owner
+  - username: stella
+    role: viewer
 - name: thebarn
   display_name: TheBarn
   description: Created for Strider Taylor
