@@ -39,32 +39,6 @@ orgs:
   members:
   - username: sacha.wharton
     role: owner
-- name: oms
-  display_name: OMS
-  description: Created for SteveTaylor Taylor
-  members:
-  - username: SteveTaylor
-    role: owner
-- name: testorg
-  display_name: TestOrg
-  description: Created for Tisha Taylor
-  members:
-  - username: tisha
-    role: owner
-  - username: stella
-    role: viewer
-- name: thebarn
-  display_name: TheBarn
-  description: Created for Strider Taylor
-  members:
-  - username: strider
-    role: owner
-- name: theranch
-  display_name: TheRanch
-  description: Created for Strider Taylor
-  members:
-  - username: strider
-    role: owner
 - name: blnb
   display_name: BLNB
   description: Created for Jing Chen
@@ -119,26 +93,6 @@ orgs:
   members:
   - username: saurav-spinny
     role: owner
-- name: catsyscorp
-  display_name: CatSysCorp
-  description: Created for Bodhi Taylor
-  members:
-  - username: boshitaylor
-    role: owner
-  - username: stella
-    role: viewer
-- name: thebarn3
-  display_name: TheBarn3
-  description: Created for Stella Taylor
-  members:
-  - username: stella
-    role: owner
-- name: cyberspace
-  display_name: CyberSpace
-  description: Created for Bodhi Taylor
-  members:
-  - username: bodhi16
-    role: owner
 users:
 - username: admin
   email: admin@deployhub.com
@@ -151,15 +105,6 @@ users:
   auth_provider: local
 - username: tragan
   email: tracy@deployhub.com
-  auth_provider: local
-- username: SteveTaylor
-  email: steve.taylor@openmakesoftware.com
-  auth_provider: local
-- username: tisha
-  email: notifysupport@deployhub.com
-  auth_provider: local
-- username: strider
-  email: sbtaylor15@gmail.com
   auth_provider: local
 - username: jdchen5
   email: jdchen5@hotmail.com
@@ -187,15 +132,6 @@ users:
   auth_provider: local
 - username: saurav-spinny
   email: saurav.dutta@spinny.com
-  auth_provider: local
-- username: boshitaylor
-  email: bodhi@deployhub.com
-  auth_provider: local
-- username: stella
-  email: stella@deployhub.com
-  auth_provider: local
-- username: bodhi16
-  email: notifysupport@deployhub.com
   auth_provider: local
 roles:
 - name: owner
