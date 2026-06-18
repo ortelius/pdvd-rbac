@@ -123,6 +123,8 @@ orgs:
   members:
   - username: boshitaylor
     role: owner
+  - username: stella
+    role: viewer
 - name: thebarn3
   display_name: TheBarn3
   description: Created for Stella Taylor
