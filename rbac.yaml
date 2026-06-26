@@ -99,6 +99,12 @@ orgs:
   members:
   - username: bodhi16
     role: owner
+- name: gmv
+  display_name: GMV
+  description: Created for Fernando Sierra
+  members:
+  - username: fsierraa1387
+    role: owner
 users:
 - username: admin
   email: admin@deployhub.com
@@ -141,6 +147,9 @@ users:
   auth_provider: local
 - username: bodhi16
   email: notifysupport@deployhub.com
+  auth_provider: local
+- username: fsierraa1387
+  email: fsierra@gmv.com
   auth_provider: local
 roles:
 - name: owner
