@@ -23,15 +23,11 @@ orgs:
   members:
   - username: staylor
     role: owner
-  - username: tragan
-    role: owner
 - name: SKYSAT
   display_name: SkySAT
   description: Created for Steve Taylor
   members:
   - username: staylor
-    role: owner
-  - username: tragan
     role: owner
 - name: pangarabbit
   display_name: PangaRabbit
@@ -114,9 +110,6 @@ users:
   auth_provider: local
 - username: sacha.wharton
   email: sacha@pangarabbit.com
-  auth_provider: local
-- username: tragan
-  email: tracy@deployhub.com
   auth_provider: local
 - username: jdchen5
   email: jdchen5@hotmail.com
