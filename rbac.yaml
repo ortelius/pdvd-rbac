@@ -101,48 +101,42 @@ orgs:
   members:
   - username: fsierraa1387
     role: owner
+- name: lupise
+  display_name: lupise
+  description: Created for Ladra Bastien
+  members:
+  - username: BastienLup
+    role: owner
 users:
 - username: admin
-  email: admin@deployhub.com
   auth_provider: local
 - username: staylor
-  email: steve@deployhub.com
   auth_provider: local
 - username: sacha.wharton
-  email: sacha@pangarabbit.com
   auth_provider: local
 - username: jdchen5
-  email: jdchen5@hotmail.com
   auth_provider: local
 - username: johndoe
-  email: johndoe@abc.com
   auth_provider: local
 - username: arunb
-  email: arun.balasubramanyan@spectrocloud.com
   auth_provider: local
 - username: vishalnvora
-  email: vishalnvora@gmail.com
   auth_provider: local
 - username: mnemonic01
-  email: mnemonic01@hotmail.com
   auth_provider: local
 - username: lQtWHnffyEXCEONpJV
-  email: iga.hama.k5.4@gmail.com
   auth_provider: local
 - username: bkearney
-  email: bryan.kearney@gmail.com
   auth_provider: local
 - username: gheber
-  email: gheber@hdfgroup.org
   auth_provider: local
 - username: saurav-spinny
-  email: saurav.dutta@spinny.com
   auth_provider: local
 - username: bodhi16
-  email: notifysupport@deployhub.com
   auth_provider: local
 - username: fsierraa1387
-  email: fsierra@gmv.com
+  auth_provider: local
+- username: BastienLup
   auth_provider: local
 roles:
 - name: owner
